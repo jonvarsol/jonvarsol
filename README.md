@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jonathan Vargas
 
-<!--
-**jonvarsol/jonvarsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with expertise in **Next.js** and a strong interest in building fast, scalable, and dynamic web applications.
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my Next.js skills and contributing to open-source projects.
+- 🌱 I’m always learning and exploring new technologies, particularly in the JavaScript ecosystem.
+- 📝 I love writing clean, efficient code and collaborating with other developers to build innovative solutions.
+- 🎯 My main goal is to keep enhancing my skills and contribute to impactful projects.
+
+## 🔧 Technologies & Tools
+
+- **Next.js**
+- **React**
+- **Node.js**
+- **HTML5 & CSS3**
+- **TailwindCSS**
+- **Git & GitHub**
+
+## 🌱 What I'm working on
+
+- Building dynamic and SEO-friendly websites with **Next.js**.
+- Improving my understanding of **TypeScript**.
+- Contributing to the open-source community.
+
+Thank you for visiting my profile! 🚀
